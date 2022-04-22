@@ -1,2 +1,2 @@
-# OSSRH-80195
-# OSSRH-80195
+StudyFirst maven centray test
+# test
